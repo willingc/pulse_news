@@ -1,0 +1,102 @@
+# Progress Report for [jupyterhub](https://github.com/jupyterhub) between 2016-12-01 and 2016-12-31
+
+### [jupyterhub](https://github.com/jupyterhub/jupyterhub)
+-  [27 commits](https://github.com/jupyterhub/jupyterhub/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [11 closed  issues](https://github.com/jupyterhub/jupyterhub/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [Added Toree troubleshooting to docs](https://github.com/jupyterhub/jupyterhub/pull/916) by [rachmaninovquartet](https://github.com/rachmaninovquartet)
+- [Update README to clarify docker image contents](https://github.com/jupyterhub/jupyterhub/pull/915) by [willingc](https://github.com/willingc)
+- [fix rest-api doc building](https://github.com/jupyterhub/jupyterhub/pull/914) by [minrk](https://github.com/minrk)
+- [Update Service Docs](https://github.com/jupyterhub/jupyterhub/pull/911) by [jjaraalm](https://github.com/jjaraalm)
+- [Avoid cleaning up API tokens for Spawners that will resume](https://github.com/jupyterhub/jupyterhub/pull/910) by [minrk](https://github.com/minrk)
+- [Add 3.6 to travis](https://github.com/jupyterhub/jupyterhub/pull/909) by [willingc](https://github.com/willingc)
+- [Don't warn about empty next_url](https://github.com/jupyterhub/jupyterhub/pull/902) by [minrk](https://github.com/minrk)
+- [Warn about single-character names in whitelist](https://github.com/jupyterhub/jupyterhub/pull/896) by [minrk](https://github.com/minrk)
+- [Update changelog for 0.7 final](https://github.com/jupyterhub/jupyterhub/pull/895) by [minrk](https://github.com/minrk)
+- [disable unused token on singleuser-server](https://github.com/jupyterhub/jupyterhub/pull/894) by [minrk](https://github.com/minrk)
+- [call expanduser on singleuser notebook_dir](https://github.com/jupyterhub/jupyterhub/pull/893) by [minrk](https://github.com/minrk)
+- [Document that authenticator's add_user maybe a coroutine](https://github.com/jupyterhub/jupyterhub/pull/892) by [yuvipanda](https://github.com/yuvipanda)
+
+### [jupyterhub-example-kerberos](https://github.com/jupyterhub/jupyterhub-example-kerberos)
+-  [3 commits](https://github.com/jupyterhub/jupyterhub-example-kerberos/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+
+#### Merged pull requests
+- [Add sudospawner + kerberos example](https://github.com/jupyterhub/jupyterhub-example-kerberos/pull/1) by [parente](https://github.com/parente)
+
+### [jupyterhub-labextension](https://github.com/jupyterhub/jupyterhub-labextension)
+-  [4 commits](https://github.com/jupyterhub/jupyterhub-labextension/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+
+#### Merged pull requests
+- [Move from jupyterhub PR and update to JupyterLab 0.11.2.](https://github.com/jupyterhub/jupyterhub-labextension/pull/1) by [danielballan](https://github.com/danielballan)
+
+### [wrapspawner](https://github.com/jupyterhub/wrapspawner)
+-  [2 commits](https://github.com/jupyterhub/wrapspawner/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+
+#### Merged pull requests
+- [First migration of code from batchspawner](https://github.com/jupyterhub/wrapspawner/pull/2) by [zonca](https://github.com/zonca)
+
+### [systemdspawner](https://github.com/jupyterhub/systemdspawner)
+-  [2 commits](https://github.com/jupyterhub/systemdspawner/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [1 closed  issue](https://github.com/jupyterhub/systemdspawner/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+### [jupyterhub-tutorial](https://github.com/jupyterhub/jupyterhub-tutorial)
+-  [5 commits](https://github.com/jupyterhub/jupyterhub-tutorial/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+
+#### Merged pull requests
+- [Typo fix for the Kelley name](https://github.com/jupyterhub/jupyterhub-tutorial/pull/14) by [rgbkrk](https://github.com/rgbkrk)
+
+### [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching)
+-  [3 commits](https://github.com/jupyterhub/jupyterhub-deploy-teaching/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [3 closed  issues](https://github.com/jupyterhub/jupyterhub-deploy-teaching/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [jupyterhub 0.7 is released](https://github.com/jupyterhub/jupyterhub-deploy-teaching/pull/45) by [minrk](https://github.com/minrk)
+- [default hub api url in cull-idle](https://github.com/jupyterhub/jupyterhub-deploy-teaching/pull/43) by [minrk](https://github.com/minrk)
+- [typo in service tokens](https://github.com/jupyterhub/jupyterhub-deploy-teaching/pull/42) by [minrk](https://github.com/minrk)
+
+### [jupyterhub-deploy-docker](https://github.com/jupyterhub/jupyterhub-deploy-docker)
+-  [6 commits](https://github.com/jupyterhub/jupyterhub-deploy-docker/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [1 closed  issue](https://github.com/jupyterhub/jupyterhub-deploy-docker/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [Bump versions of hub dependencies, notebook image](https://github.com/jupyterhub/jupyterhub-deploy-docker/pull/31) by [jtyberg](https://github.com/jtyberg)
+- [Add JupyterLab example](https://github.com/jupyterhub/jupyterhub-deploy-docker/pull/27) by [jtyberg](https://github.com/jtyberg)
+- [[WIP] Upgrade example for JupyterHub 0.7](https://github.com/jupyterhub/jupyterhub-deploy-docker/pull/24) by [parente](https://github.com/parente)
+
+### [ldapauthenticator](https://github.com/jupyterhub/ldapauthenticator)
+-  [1 closed  issue](https://github.com/jupyterhub/ldapauthenticator/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+### [kubespawner](https://github.com/jupyterhub/kubespawner)
+-  [2 commits](https://github.com/jupyterhub/kubespawner/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [1 closed  issue](https://github.com/jupyterhub/kubespawner/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [Check for user being empty in context](https://github.com/jupyterhub/kubespawner/pull/17) by [nnashok](https://github.com/nnashok)
+
+### [batchspawner](https://github.com/jupyterhub/batchspawner)
+-  [4 commits](https://github.com/jupyterhub/batchspawner/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [2 closed  issues](https://github.com/jupyterhub/batchspawner/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [Fix problem encountered when using CondorSpawner and Jupyterhub 0.7. …](https://github.com/jupyterhub/batchspawner/pull/22) by [dcbradley](https://github.com/dcbradley)
+- [removed wrapspawner and updated docs](https://github.com/jupyterhub/batchspawner/pull/21) by [zonca](https://github.com/zonca)
+- [Use the correct shell in jupyterhub terminal under CondorSpawner](https://github.com/jupyterhub/batchspawner/pull/19) by [dcbradley](https://github.com/dcbradley)
+
+### [dockerspawner](https://github.com/jupyterhub/dockerspawner)
+-  [2 commits](https://github.com/jupyterhub/dockerspawner/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+-  [2 closed  issues](https://github.com/jupyterhub/dockerspawner/issues?utf8=%E2%9C%93&q=is%3Aissue%20closed%3A2016-12-01..2016-12-31)
+
+#### Merged pull requests
+- [indicate that we will resume if not using remove_containers](https://github.com/jupyterhub/dockerspawner/pull/131) by [minrk](https://github.com/minrk)
+
+### [configurable-http-proxy](https://github.com/jupyterhub/configurable-http-proxy)
+-  [2 commits](https://github.com/jupyterhub/configurable-http-proxy/compare/master@%7B1480579200%7D...master@%7B1483171200%7D)
+
+#### Merged pull requests
+- [fix closure reference when serving custom error pages](https://github.com/jupyterhub/configurable-http-proxy/pull/91) by [minrk](https://github.com/minrk)
+
+## Totals
+- Commits: 62
+- Pull requests: 30
+- Issues: 24

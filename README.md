@@ -12,6 +12,10 @@ Reports for Project Jupyter using org-pulse tool
 
 #### January
 
+- [Monthly report](2017_01_jhub.md)
+- [01-31](2017_01_31_jhub.md)
+- [01-24](2017_01_24_jhub.md)
+
 ### 2016
 
 #### December

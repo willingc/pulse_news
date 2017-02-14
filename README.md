@@ -7,8 +7,8 @@ Reports for Project Jupyter using org-pulse tool
 
 #### February
 
-- [2017_02_14_jhub.md]()
-- [2017_02_07_jhub.md]()
+- [02-14](2017_02_14_jhub.md)
+- [02-07](2017_02_07_jhub.md)
 
 #### January
 

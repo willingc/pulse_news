@@ -22,3 +22,4 @@ Reports for Project Jupyter using org-pulse tool
 
 #### December
 
+- [Monthly report](2016_12_jhub_revised.md)

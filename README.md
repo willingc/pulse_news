@@ -2,12 +2,27 @@
 
 Reports for Project Jupyter using org-pulse tool
 
+## Project Jupyter Development News
+
+### 2017
+
+#### February 21, 2017
+
+- [IPython](2017_02_21_ipython.md)
+- [Jupyter](2017_02_21_jupyter.md)
+- [JupyterLab](2017_02_21_jupyterlab.md)
+- [Jupyter-widgets](2017_02_21_jupyter-widgets.md)
+- [JupyterHub](2017_02_21_jhub.md)
+
+---
+
 ## JupyterHub Development News
 
 ### 2017
 
 #### February
 
+- [02-21](2017_02_21_jhub.md)
 - [02-14](2017_02_14_jhub.md)
 - [02-07](2017_02_07_jhub.md)
 

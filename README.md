@@ -6,6 +6,14 @@ Reports for Project Jupyter using org-pulse tool
 
 ### 2017
 
+#### June 13, 2017
+
+- [IPython](2017-06-13_ipython.md)
+- [Jupyter](2017-06-13_jupyter.md)
+- [JupyterLab](2017-06-13_jupyterlab.md)
+- [Jupyter-widgets](2017-06-13_jupyter-widgets.md)
+- [JupyterHub](2017-06-13_jupyterhub.md)
+
 #### June 5, 2017
 
 - [IPython](2017-06-05_ipython.md)

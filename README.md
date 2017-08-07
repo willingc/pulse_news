@@ -6,6 +6,14 @@ Reports for Project Jupyter using org-pulse tool
 
 ### 2017
 
+#### First Half of 2017 (January 1 to July 31, 2017)
+
+- [IPython](2017-07-31_ipython.md)
+- [Jupyter](2017-07-31_jupyter.md)
+- [JupyterLab](2017-07-31_jupyterlab.md)
+- [Jupyter-widgets](2017-07-31_jupyter-widgets.md)
+- [JupyterHub](2017-07-31_jupyterhub.md)
+
 #### July 25, 2017
 
 - [IPython](2017-07-25_ipython.md)

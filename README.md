@@ -6,6 +6,15 @@ Reports for Project Jupyter using org-pulse tool
 
 ### 2017
 
+#### November 14, 2017
+
+- [IPython](2017-11-14_ipython.md)
+- [Jupyter](2017-11-14_jupyter.md)
+- [JupyterLab](2017-11-14_jupyterlab.md)
+- [Jupyter-widgets](2017-11-14_jupyter-widgets.md)
+- [JupyterHub](2017-11-14_jupyterhub.md)
+- [nteract](2017-11-14_nteract.md)  * NumFocus project
+
 #### October 24, 2017
 
 - [IPython](2017-10-24_ipython.md)

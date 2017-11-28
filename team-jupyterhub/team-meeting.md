@@ -1,12 +1,20 @@
 # JupyterHub and BinderHub Team Meeting
+
+Goal: Continuous improvement
+
 #### Opening Date:
 #### Closing Date:
+
+[Link to prior week's virtual meeting report]()
+
 *The detailed sections are for organization of  team information, communication consistency, and are designed to motivate the team's next actions.*
 
 *Let's keep items brief, preferably in bullet form (action verb, links, people). Example:  Meet Tim's long lost rich relative to fund mybinder.org Links (Tim, Aunt B, interested team members)*
 
 ## I. Team Metrics
 *Generated GitHub reports summary or link*
+
+[Link to overview news]()
 
 ## II. Team News and Informational items
 *News items you want to share with others (partnerships, important conversations, design considerations, something fun, something that annoyed you). If you have it, please link to a GitHub issue)*

@@ -6,6 +6,24 @@ Reports for Project Jupyter using org-pulse tool
 
 ### 2018
 
+### January 16, 2018
+
+- [IPython](2018/2018-01-16_ipython.md)
+- [Jupyter](2018/2018-01-16_jupyter.md)
+- [JupyterLab](2018/2018-01-16_jupyterlab.md)
+- [Jupyter-widgets](2018/2018/2018-01-16_jupyter-widgets.md)
+- [JupyterHub](2018/2018-01-16_jupyterhub.md)
+- [nteract](2018/2018-01-16_nteract.md)  * NumFocus project
+
+### January 9, 2018
+
+- [IPython](2018/2018-01-09_ipython.md)
+- [Jupyter](2018/2018-01-09_jupyter.md)
+- [JupyterLab](2018/2018-01-09_jupyterlab.md)
+- [Jupyter-widgets](2018/2018/2018-01-09_jupyter-widgets.md)
+- [JupyterHub](2018/2018-01-09_jupyterhub.md)
+- [nteract](2018/2018-01-09_nteract.md)  * NumFocus project
+
 ### January 2, 2018
 
 - [IPython](2018/2018-01-02_ipython.md)
@@ -23,4 +41,3 @@ Reports for Project Jupyter using org-pulse tool
 ### 2016
 
 - [Annual report](2016/2016_annual_jhub.md)
-

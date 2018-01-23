@@ -8,6 +8,15 @@ Reports for Project Jupyter using org-pulse tool
 
 ### January 16, 2018
 
+- [IPython](2018/2018-01-23_ipython.md)
+- [Jupyter](2018/2018-01-23_jupyter.md)
+- [JupyterLab](2018/2018-01-23_jupyterlab.md)
+- [Jupyter-widgets](2018/2018-01-23_jupyter-widgets.md)
+- [JupyterHub](2018/2018-01-23_jupyterhub.md)
+- [nteract](2018/2018-01-23_nteract.md)  * NumFocus project
+
+### January 16, 2018
+
 - [IPython](2018/2018-01-16_ipython.md)
 - [Jupyter](2018/2018-01-16_jupyter.md)
 - [JupyterLab](2018/2018-01-16_jupyterlab.md)
